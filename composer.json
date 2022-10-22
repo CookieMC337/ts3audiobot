@@ -1,6 +1,6 @@
 {
-  "name": "rexlmanu/ts3audiobot",
-  "description": "Api client for the c# project ts3audiobot designed for use in laravel applications",
+  "name": "cookiemc337/ts3audiobot",
+  "description": "Api client for the c# project ts3audiobot designed for use in laravel applications (Fork from rexlManu)",
   "type": "library",
   "keywords": [
     "client",
